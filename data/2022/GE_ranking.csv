@@ -1,19 +1,19 @@
-,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro
-0,1,Bayern Munich,34,21,8,5,92,38,54,71,209,75.0,37.1,37.8,111,75.0,Serge Gnabry - 14,Yann Sommer
-1,2,Dortmund,34,22,5,7,83,44,39,71,209,71.1,43.2,27.9,82,81.228,"Julian Brandt, Donyell Malen... - 9",Gregor Kobel
-2,3,RB Leipzig,34,20,6,8,64,41,23,66,194,62.7,37.2,25.4,75,45.961,Christopher Nkunku - 16,Janis Blaswich
-3,4,Union Berlin,34,18,8,8,51,38,13,62,182,37.9,42.6,-4.7,-14,21.822,Sheraldo Becker - 11,Frederik Rønnow
-4,5,Freiburg,34,17,8,9,51,44,7,59,174,47.9,48.8,-0.9,-3,34.112,Vincenzo Grifo - 15,Mark Flekken
-5,6,Leverkusen,34,14,8,12,57,49,8,50,147,51.4,42.8,8.6,25,28.609,Moussa Diaby - 9,Lukáš Hrádecký
-6,7,Eint Frankfurt,34,13,11,10,58,52,6,50,147,52.1,43.5,8.6,25,50.1,Randal Kolo Muani - 15,Kevin Trapp
-7,8,Wolfsburg,34,13,10,11,57,48,9,49,144,51.3,51.3,0.0,0,25.394,"Yannick Gerhardt, Jonas Wind - 6",Koen Casteels
-8,9,Mainz 05,34,12,10,12,54,55,-1,46,135,47.1,53.6,-6.5,-19,29.07,"Marcus Ingvartsen, Karim Onisiwo - 10",Robin Zentner
-9,10,Gladbach,34,11,10,13,52,55,-3,43,126,52.1,53.4,-1.3,-4,52.378,Marcus Thuram - 13,Jonas Omlin
-10,11,Köln,34,10,12,12,49,54,-5,42,124,47.9,42.6,5.3,16,49.765,Ellyes Skhiri - 7,Marvin Schwäbe
-11,12,Hoffenheim,34,10,6,18,48,57,-9,36,106,48.0,51.1,-3.1,-9,24.625,Andrej Kramarić - 12,Oliver Baumann
-12,13,Werder Bremen,34,10,6,18,51,64,-13,36,106,41.1,52.9,-11.8,-35,41.556,Niclas Füllkrug - 16,Jiří Pavlenka
-13,14,Bochum,34,10,5,19,40,72,-32,35,103,40.0,65.7,-25.7,-76,25.318,Philipp Hofmann - 8,Manuel Riemann
-14,15,Augsburg,34,9,7,18,42,63,-21,34,100,34.7,58.7,-23.9,-70,27.956,Mergim Berisha - 9,Rafał Gikiewicz
-15,16,Stuttgart,34,7,12,15,45,57,-12,33,97,47.6,45.2,2.4,7,46.541,Serhou Guirassy - 11,Florian Müller
-16,17,Schalke 04,34,7,10,17,35,71,-36,31,91,39.6,57.1,-17.6,-52,61.133,Marius Bülter - 11,Alexander Schwolow
-17,18,Hertha BSC,34,7,8,19,42,69,-27,29,85,39.4,60.0,-20.5,-60,53.67,Dodi Lukebakio - 11,Oliver Christensen
+,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro,Gols do artilheiro
+0,1,Bayern Munich,34,21,8,5,92,38,54,71,209,75.0,37.1,37.8,111,75.0,Serge Gnabry,Yann Sommer,14
+1,2,Dortmund,34,22,5,7,83,44,39,71,209,71.1,43.2,27.9,82,81.228,"Julian Brandt, Donyell Malen...",Gregor Kobel,9
+2,3,RB Leipzig,34,20,6,8,64,41,23,66,194,62.7,37.2,25.4,75,45.961,Christopher Nkunku,Janis Blaswich,16
+3,4,Union Berlin,34,18,8,8,51,38,13,62,182,37.9,42.6,-4.7,-14,21.822,Sheraldo Becker,Frederik Rønnow,11
+4,5,Freiburg,34,17,8,9,51,44,7,59,174,47.9,48.8,-0.9,-3,34.112,Vincenzo Grifo,Mark Flekken,15
+5,6,Leverkusen,34,14,8,12,57,49,8,50,147,51.4,42.8,8.6,25,28.609,Moussa Diaby,Lukáš Hrádecký,9
+6,7,Eint Frankfurt,34,13,11,10,58,52,6,50,147,52.1,43.5,8.6,25,50.1,Randal Kolo Muani,Kevin Trapp,15
+7,8,Wolfsburg,34,13,10,11,57,48,9,49,144,51.3,51.3,0.0,0,25.394,"Yannick Gerhardt, Jonas Wind",Koen Casteels,6
+8,9,Mainz 05,34,12,10,12,54,55,-1,46,135,47.1,53.6,-6.5,-19,29.07,"Marcus Ingvartsen, Karim Onisiwo",Robin Zentner,10
+9,10,Gladbach,34,11,10,13,52,55,-3,43,126,52.1,53.4,-1.3,-4,52.378,Marcus Thuram,Jonas Omlin,13
+10,11,Köln,34,10,12,12,49,54,-5,42,124,47.9,42.6,5.3,16,49.765,Ellyes Skhiri,Marvin Schwäbe,7
+11,12,Hoffenheim,34,10,6,18,48,57,-9,36,106,48.0,51.1,-3.1,-9,24.625,Andrej Kramarić,Oliver Baumann,12
+12,13,Werder Bremen,34,10,6,18,51,64,-13,36,106,41.1,52.9,-11.8,-35,41.556,Niclas Füllkrug,Jiří Pavlenka,16
+13,14,Bochum,34,10,5,19,40,72,-32,35,103,40.0,65.7,-25.7,-76,25.318,Philipp Hofmann,Manuel Riemann,8
+14,15,Augsburg,34,9,7,18,42,63,-21,34,100,34.7,58.7,-23.9,-70,27.956,Mergim Berisha,Rafał Gikiewicz,9
+15,16,Stuttgart,34,7,12,15,45,57,-12,33,97,47.6,45.2,2.4,7,46.541,Serhou Guirassy,Florian Müller,11
+16,17,Schalke 04,34,7,10,17,35,71,-36,31,91,39.6,57.1,-17.6,-52,61.133,Marius Bülter,Alexander Schwolow,11
+17,18,Hertha BSC,34,7,8,19,42,69,-27,29,85,39.4,60.0,-20.5,-60,53.67,Dodi Lukebakio,Oliver Christensen,11

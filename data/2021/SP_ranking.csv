@@ -1,21 +1,21 @@
-,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro
-0,1,Real Madrid,38,26,8,4,80,31,49,86,226,71.7,43.9,27.8,73,41.235,Karim Benzema - 27,Thibaut Courtois
-1,2,Barcelona,38,21,10,7,68,38,30,73,192,63.4,34.4,29.0,76,53.982,Memphis - 12,Marc-André ter Stegen
-2,3,Atlético Madrid,38,21,8,9,65,43,22,71,187,54.4,33.4,21.1,56,48.039,Ángel Correa - 12,Jan Oblak
-3,4,Sevilla,38,18,16,4,53,30,23,70,184,42.4,36.9,5.4,14,29.756,Rafa Mir - 10,Yassine Bounou
-4,5,Betis,38,19,8,11,62,40,22,65,171,53.5,43.4,10.1,27,41.749,Juanmi - 16,Rui Silva
-5,6,Real Sociedad,38,17,11,10,40,37,3,62,163,51.5,38.7,12.8,34,26.813,Mikel Oyarzabal - 9,Álex Remiro
-6,7,Villarreal,38,16,11,11,63,37,26,59,155,64.2,44.8,19.4,51,14.293,Arnaut Danjuma - 10,Gerónimo Rulli
-7,8,Athletic Club,38,14,13,11,43,36,7,55,145,49.6,38.4,11.3,30,32.949,Iñaki Williams - 8,Unai Simón
-8,9,Valencia,38,11,15,12,48,53,-5,48,126,39.0,47.7,-8.7,-23,27.349,"Gonçalo Guedes, Carlos Soler - 11",Giorgi Mamardashvili
-9,10,Osasuna,38,12,11,15,37,51,-14,47,124,36.7,46.3,-9.6,-25,17.107,Ante Budimir - 8,Sergio Herrera
-10,11,Celta Vigo,38,12,10,16,43,43,0,46,121,43.1,45.7,-2.6,-7,10.014,Iago Aspas - 18,Matías Dituro
-11,12,Rayo Vallecano,38,11,9,18,39,50,-11,42,111,42.8,48.4,-5.6,-15,7.866,Sergi Guardiola - 8,Stole Dimitrievski
-12,13,Elche,38,11,9,18,40,52,-12,42,111,33.7,59.1,-25.4,-67,15.64,Pere Milla - 8,Édgar Badía
-13,14,Espanyol,38,10,12,16,40,53,-13,42,111,36.7,51.2,-14.5,-38,17.362,Raúl de Tomás - 17,Diego López
-14,15,Getafe,38,8,15,15,33,41,-8,39,103,29.3,38.6,-9.3,-25,8.702,Enes Ünal - 16,David Soria
-15,16,Mallorca,38,10,9,19,36,63,-27,39,103,38.8,49.3,-10.5,-28,12.712,"Vedat Muriqi, Salva Sevilla - 5",Manolo Reina
-16,17,Cádiz,38,8,15,15,35,51,-16,39,103,39.5,48.3,-8.7,-23,14.055,"Anthony Lozano, Álvaro Negredo - 7",Jeremías Ledesma
-17,18,Granada,38,8,14,16,44,61,-17,38,100,39.0,61.2,-22.2,-59,13.71,Jorge Molina - 10,Luís Maximiano
-18,19,Levante,38,8,11,19,51,76,-25,35,92,55.1,55.0,0.1,0,14.961,José Luis Morales - 13,Cárdenas
-19,20,Alavés,38,8,7,23,31,65,-34,31,82,37.3,57.0,-19.7,-52,10.952,Joselu - 14,Fernando Pacheco
+,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro,Gols do artilheiro
+0,1,Real Madrid,38,26,8,4,80,31,49,86,226,71.7,43.9,27.8,73,41.235,Karim Benzema,Thibaut Courtois,27
+1,2,Barcelona,38,21,10,7,68,38,30,73,192,63.4,34.4,29.0,76,53.982,Memphis,Marc-André ter Stegen,12
+2,3,Atlético Madrid,38,21,8,9,65,43,22,71,187,54.4,33.4,21.1,56,48.039,Ángel Correa,Jan Oblak,12
+3,4,Sevilla,38,18,16,4,53,30,23,70,184,42.4,36.9,5.4,14,29.756,Rafa Mir,Yassine Bounou,10
+4,5,Betis,38,19,8,11,62,40,22,65,171,53.5,43.4,10.1,27,41.749,Juanmi,Rui Silva,16
+5,6,Real Sociedad,38,17,11,10,40,37,3,62,163,51.5,38.7,12.8,34,26.813,Mikel Oyarzabal,Álex Remiro,9
+6,7,Villarreal,38,16,11,11,63,37,26,59,155,64.2,44.8,19.4,51,14.293,Arnaut Danjuma,Gerónimo Rulli,10
+7,8,Athletic Club,38,14,13,11,43,36,7,55,145,49.6,38.4,11.3,30,32.949,Iñaki Williams,Unai Simón,8
+8,9,Valencia,38,11,15,12,48,53,-5,48,126,39.0,47.7,-8.7,-23,27.349,"Gonçalo Guedes, Carlos Soler",Giorgi Mamardashvili,11
+9,10,Osasuna,38,12,11,15,37,51,-14,47,124,36.7,46.3,-9.6,-25,17.107,Ante Budimir,Sergio Herrera,8
+10,11,Celta Vigo,38,12,10,16,43,43,0,46,121,43.1,45.7,-2.6,-7,10.014,Iago Aspas,Matías Dituro,18
+11,12,Rayo Vallecano,38,11,9,18,39,50,-11,42,111,42.8,48.4,-5.6,-15,7.866,Sergi Guardiola,Stole Dimitrievski,8
+12,13,Elche,38,11,9,18,40,52,-12,42,111,33.7,59.1,-25.4,-67,15.64,Pere Milla,Édgar Badía,8
+13,14,Espanyol,38,10,12,16,40,53,-13,42,111,36.7,51.2,-14.5,-38,17.362,Raúl de Tomás,Diego López,17
+14,15,Getafe,38,8,15,15,33,41,-8,39,103,29.3,38.6,-9.3,-25,8.702,Enes Ünal,David Soria,16
+15,16,Mallorca,38,10,9,19,36,63,-27,39,103,38.8,49.3,-10.5,-28,12.712,"Vedat Muriqi, Salva Sevilla",Manolo Reina,5
+16,17,Cádiz,38,8,15,15,35,51,-16,39,103,39.5,48.3,-8.7,-23,14.055,"Anthony Lozano, Álvaro Negredo",Jeremías Ledesma,7
+17,18,Granada,38,8,14,16,44,61,-17,38,100,39.0,61.2,-22.2,-59,13.71,Jorge Molina,Luís Maximiano,10
+18,19,Levante,38,8,11,19,51,76,-25,35,92,55.1,55.0,0.1,0,14.961,José Luis Morales,Cárdenas,13
+19,20,Alavés,38,8,7,23,31,65,-34,31,82,37.3,57.0,-19.7,-52,10.952,Joselu,Fernando Pacheco,14

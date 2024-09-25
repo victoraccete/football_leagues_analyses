@@ -1,21 +1,21 @@
-,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro
-0,1,Napoli,38,28,6,4,77,28,49,90,237,64.7,31.8,33.0,87,46.173,Victor Osimhen - 26,Alex Meret
-1,2,Lazio,38,22,8,8,60,30,30,74,195,51.1,41.3,9.8,26,44.141,Ciro Immobile - 12,Ivan Provedel
-2,3,Inter,38,23,3,12,71,42,29,72,189,68.0,36.5,31.6,83,72.63,Lautaro Martínez - 21,André Onana
-3,4,Milan,38,20,10,8,64,43,21,70,184,58.8,41.1,17.7,47,71.88,Rafael Leão - 15,Mike Maignan
-4,5,Atalanta,38,19,7,12,66,48,18,64,168,57.7,41.4,16.3,43,18.241,Ademola Lookman - 13,Juan Musso
-5,6,Roma,38,18,9,11,50,38,12,63,166,57.4,32.1,25.3,67,62.032,Paulo Dybala - 12,Rui Patrício
-6,7,Juventus,38,22,6,10,56,33,23,62,163,55.3,41.6,13.7,36,37.656,Dušan Vlahović - 10,Wojciech Szczęsny
-7,8,Fiorentina,38,15,11,12,53,43,10,56,147,55.0,43.4,11.7,31,32.2,Arthur Cabral - 8,Pietro Terracciano
-8,9,Bologna,38,14,12,12,53,49,4,54,142,43.8,48.7,-4.9,-13,22.314,Riccardo Orsolini - 11,Łukasz Skorupski
-9,10,Torino,38,14,11,13,42,41,1,53,139,41.8,40.0,1.8,5,19.464,Antonio Sanabria - 12,Vanja Milinković-Savić
-10,11,Monza,38,14,10,14,48,52,-4,52,137,45.9,51.3,-5.4,-14,12.413,"Patrick Ciurria, Carlos Augusto - 6",Michele Di Gregorio
-11,12,Udinese,38,11,13,14,47,48,-1,46,121,46.9,51.8,-4.9,-13,21.616,Beto - 10,Marco Silvestri
-12,13,Sassuolo,38,12,9,17,47,61,-14,45,118,51.6,49.7,1.9,5,13.011,Domenico Berardi - 12,Andrea Consigli
-13,14,Empoli,38,10,13,15,37,49,-12,43,113,38.8,58.3,-19.5,-51,9.808,Nicolò Cambiaghi - 6,Guglielmo Vicario
-14,15,Salernitana,38,9,15,14,48,62,-14,42,111,36.7,67.1,-30.5,-80,20.082,Boulaye Dia - 16,Guillermo Ochoa
-15,16,Lecce,38,8,12,18,33,46,-13,36,95,36.1,42.1,-6.1,-16,24.654,Gabriel Strefezza - 8,Wladimiro Falcone
-16,17,Spezia,38,6,13,19,31,62,-31,31,82,41.5,59.5,-18.0,-47,9.258,M'Bala Nzola - 13,Bartłomiej Drągowski
-17,18,Hellas Verona,38,7,10,21,31,59,-28,31,82,35.8,49.9,-14.1,-37,18.752,Simone Verdi - 5,Lorenzo Montipò
-18,19,Cremonese,38,5,12,21,36,69,-33,27,71,38.7,66.1,-27.4,-72,11.978,Daniel Ciofani - 8,Marco Carnesecchi
-19,20,Sampdoria,38,3,10,25,24,71,-47,19,50,34.1,66.3,-32.2,-85,20.133,Manolo Gabbiadini - 7,Emil Audero
+,Cl,Equipe,MP,V,E,D,GP,GC,GD,Pt,Pts/PPJ,xG,xGA,xGD,xGD/90,Público,Artilheiro da equipe,Goleiro,Gols do artilheiro
+0,1,Napoli,38,28,6,4,77,28,49,90,237,64.7,31.8,33.0,87,46.173,Victor Osimhen,Alex Meret,26
+1,2,Lazio,38,22,8,8,60,30,30,74,195,51.1,41.3,9.8,26,44.141,Ciro Immobile,Ivan Provedel,12
+2,3,Inter,38,23,3,12,71,42,29,72,189,68.0,36.5,31.6,83,72.63,Lautaro Martínez,André Onana,21
+3,4,Milan,38,20,10,8,64,43,21,70,184,58.8,41.1,17.7,47,71.88,Rafael Leão,Mike Maignan,15
+4,5,Atalanta,38,19,7,12,66,48,18,64,168,57.7,41.4,16.3,43,18.241,Ademola Lookman,Juan Musso,13
+5,6,Roma,38,18,9,11,50,38,12,63,166,57.4,32.1,25.3,67,62.032,Paulo Dybala,Rui Patrício,12
+6,7,Juventus,38,22,6,10,56,33,23,62,163,55.3,41.6,13.7,36,37.656,Dušan Vlahović,Wojciech Szczęsny,10
+7,8,Fiorentina,38,15,11,12,53,43,10,56,147,55.0,43.4,11.7,31,32.2,Arthur Cabral,Pietro Terracciano,8
+8,9,Bologna,38,14,12,12,53,49,4,54,142,43.8,48.7,-4.9,-13,22.314,Riccardo Orsolini,Łukasz Skorupski,11
+9,10,Torino,38,14,11,13,42,41,1,53,139,41.8,40.0,1.8,5,19.464,Antonio Sanabria,Vanja Milinković-Savić,12
+10,11,Monza,38,14,10,14,48,52,-4,52,137,45.9,51.3,-5.4,-14,12.413,"Patrick Ciurria, Carlos Augusto",Michele Di Gregorio,6
+11,12,Udinese,38,11,13,14,47,48,-1,46,121,46.9,51.8,-4.9,-13,21.616,Beto,Marco Silvestri,10
+12,13,Sassuolo,38,12,9,17,47,61,-14,45,118,51.6,49.7,1.9,5,13.011,Domenico Berardi,Andrea Consigli,12
+13,14,Empoli,38,10,13,15,37,49,-12,43,113,38.8,58.3,-19.5,-51,9.808,Nicolò Cambiaghi,Guglielmo Vicario,6
+14,15,Salernitana,38,9,15,14,48,62,-14,42,111,36.7,67.1,-30.5,-80,20.082,Boulaye Dia,Guillermo Ochoa,16
+15,16,Lecce,38,8,12,18,33,46,-13,36,95,36.1,42.1,-6.1,-16,24.654,Gabriel Strefezza,Wladimiro Falcone,8
+16,17,Spezia,38,6,13,19,31,62,-31,31,82,41.5,59.5,-18.0,-47,9.258,M'Bala Nzola,Bartłomiej Drągowski,13
+17,18,Hellas Verona,38,7,10,21,31,59,-28,31,82,35.8,49.9,-14.1,-37,18.752,Simone Verdi,Lorenzo Montipò,5
+18,19,Cremonese,38,5,12,21,36,69,-33,27,71,38.7,66.1,-27.4,-72,11.978,Daniel Ciofani,Marco Carnesecchi,8
+19,20,Sampdoria,38,3,10,25,24,71,-47,19,50,34.1,66.3,-32.2,-85,20.133,Manolo Gabbiadini,Emil Audero,7
